@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="Suite">
+	<test thread-count="5" parallel="methods" name="Test">
+		<groups>
+			<run>
+				<include name="Athletic Track Sports"></include>
+				<include name="Field Sports"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="com.TestNG.Grouping" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

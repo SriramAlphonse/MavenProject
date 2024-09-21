@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="9" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-20T22:46:16 IST" name="Suite" finished-at="2024-09-20T22:46:16 IST" duration-ms="55">
+    <groups>
+      <group name="Field Sports">
+        <method signature="Grouping.cricket()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" name="cricket" class="com.TestNG.Grouping"/>
+        <method signature="Grouping.football()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" name="football" class="com.TestNG.Grouping"/>
+        <method signature="Grouping.handball()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" name="handball" class="com.TestNG.Grouping"/>
+      </group> <!-- Field Sports -->
+      <group name="Athletic Track Sports">
+        <method signature="Grouping.javelinThrow()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" name="javelinThrow" class="com.TestNG.Grouping"/>
+        <method signature="Grouping.marathon()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" name="marathon" class="com.TestNG.Grouping"/>
+        <method signature="Grouping.running()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" name="running" class="com.TestNG.Grouping"/>
+      </group> <!-- Athletic Track Sports -->
+    </groups>
+    <test started-at="2024-09-20T22:46:16 IST" name="Test" finished-at="2024-09-20T22:46:16 IST" duration-ms="55">
+      <class name="com.TestNG.Grouping">
+        <test-method signature="cricket()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" started-at="2024-09-20T22:46:16 IST" name="cricket" finished-at="2024-09-20T22:46:16 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cricket -->
+        <test-method signature="football()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" started-at="2024-09-20T22:46:16 IST" name="football" finished-at="2024-09-20T22:46:16 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- football -->
+        <test-method signature="javelinThrow()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" started-at="2024-09-20T22:46:16 IST" name="javelinThrow" finished-at="2024-09-20T22:46:16 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javelinThrow -->
+        <test-method signature="marathon()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" started-at="2024-09-20T22:46:16 IST" name="marathon" finished-at="2024-09-20T22:46:16 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- marathon -->
+        <test-method signature="handball()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" started-at="2024-09-20T22:46:16 IST" name="handball" finished-at="2024-09-20T22:46:16 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handball -->
+        <test-method signature="running()[pri:0, instance:com.TestNG.Grouping@4dbb42b7]" started-at="2024-09-20T22:46:16 IST" name="running" finished-at="2024-09-20T22:46:16 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- running -->
+      </class> <!-- com.TestNG.Grouping -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
